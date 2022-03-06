@@ -1,0 +1,42 @@
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white
+}
+body{
+    background: #000;
+}
+.lista{
+    text-align: left;
+    display:inline-block;
+}
+.tabla{
+    margin: auto;
+}
+.button{
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    background-color: black;
+}
+.logo{
+    position:relative;
+    width: 10%;
+    height: 10%;
+    display:block;
+    margin:auto;
+}
+.label{
+    color: #000;
+}
+.centrado{
+    text-align: center;
+}
+.justificado{
+    text-align: justify;
+}
+
+
+.titulo{
+    font-family: 'Fira Sans Condensed', sans-serif;
+}
